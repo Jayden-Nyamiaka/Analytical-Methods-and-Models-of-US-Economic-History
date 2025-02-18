@@ -1,0 +1,14 @@
+paneled-immigration/data/census_links_1900_1910.csv
+paneled-immigration/data/census_links_1910_1920.csv
+paneled-immigration/data/ipums_1900.dat
+paneled-immigration/data/ipums_1910.dat
+paneled-immigration/data/ipums_1920.dat
+paneled-immigration/out/cross_section_data_female.csv
+paneled-immigration/out/cross_section_data_male.csv
+paneled-immigration/out/cross_section_data.csv
+paneled-immigration/out/long_term_panel_data_female.csv
+paneled-immigration/out/long_term_panel_data_male.csv
+paneled-immigration/out/long_term_panel_data.csv
+paneled-immigration/out/repeated_cross_section_data_female.csv
+paneled-immigration/out/repeated_cross_section_data_male.csv
+paneled-immigration/out/repeated_cross_section_data.csv

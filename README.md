@@ -1,5 +1,5 @@
 # Analytical-Methods-and-Models-of-US-Economic-History
-Advanced analytical methods and computational models to explore over 125 years of U.S. economic history. Combines data-driven analysis, econometrics, and programming to explore key historical phenomena through a software engineering lens.
+Advanced analytical methods and computational models to explore over 125 years of U.S. economic history. Combines data-driven analysis, econometrics, and programming to explore key historical phenomena through a software engineering lens. Specifically, works with big data, applies advanced econometric techniques, and creates interactive visualizations to uncover insights and trends in U.S. economic history.
 
 ## Features
 - **Data Engineering**: ETL pipelines for processing historical economic datasets using Python.  
